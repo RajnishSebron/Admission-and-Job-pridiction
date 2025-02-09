@@ -1,2 +1,2 @@
-# Admission-and-Job-pridiction
+# Admission-and-Job-Analysis
  These features may include academic performance, standardized test scores. Job prediction refers to predicting a job based on their qualifications, experience, skills, and other factors.
